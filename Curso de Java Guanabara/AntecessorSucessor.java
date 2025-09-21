@@ -10,9 +10,6 @@ public class AntecessorSucessor {
         num.close();
 
         System.out.print("Você digitou o número: "+ numero +" \n");
-        System.out.print("O Antecessor de "+numero+" é "+ant+" e o Sucessor é "+sum+"\n");
+        System.out.print("O Antecessor de "+numero+" é "+ant+" e o Sucessor é "+sum+".\n");
     }
-    
-
-  
 }
